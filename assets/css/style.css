@@ -11,6 +11,11 @@ body{
     height: 80vh;
     gap: 10px;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 header{
     grid-column: 1 / 4;
     text-align: center;
